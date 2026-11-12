@@ -1,0 +1,159 @@
+{
+ "fps": 30,
+ "total": 1672,
+ "shots": [
+  {
+   "id": 1,
+   "a": 0,
+   "b": 97,
+   "start": 0,
+   "end": 3.233,
+   "place": "adstage",
+   "light": "day"
+  },
+  {
+   "id": 2,
+   "a": 97,
+   "b": 197,
+   "start": 3.233,
+   "end": 6.567,
+   "place": "adstage",
+   "light": "day"
+  },
+  {
+   "id": 3,
+   "a": 197,
+   "b": 244,
+   "start": 6.567,
+   "end": 8.133,
+   "place": "adstage",
+   "light": "day"
+  },
+  {
+   "id": 4,
+   "a": 244,
+   "b": 352,
+   "start": 8.133,
+   "end": 11.733,
+   "place": "dorm",
+   "light": "day"
+  },
+  {
+   "id": 5,
+   "a": 352,
+   "b": 453,
+   "start": 11.733,
+   "end": 15.1,
+   "place": "dorm",
+   "light": "day"
+  },
+  {
+   "id": 6,
+   "a": 453,
+   "b": 578,
+   "start": 15.1,
+   "end": 19.267,
+   "place": "dorm",
+   "light": "day"
+  },
+  {
+   "id": 7,
+   "a": 578,
+   "b": 690,
+   "start": 19.267,
+   "end": 23,
+   "place": "dorm",
+   "light": "day"
+  },
+  {
+   "id": 8,
+   "a": 690,
+   "b": 780,
+   "start": 23,
+   "end": 26,
+   "place": "dorm",
+   "light": "day"
+  },
+  {
+   "id": 9,
+   "a": 780,
+   "b": 868,
+   "start": 26,
+   "end": 28.933,
+   "place": "office",
+   "light": "day"
+  },
+  {
+   "id": 10,
+   "a": 868,
+   "b": 991,
+   "start": 28.933,
+   "end": 33.033,
+   "place": "court",
+   "light": "day"
+  },
+  {
+   "id": 11,
+   "a": 991,
+   "b": 1098,
+   "start": 33.033,
+   "end": 36.6,
+   "place": "court",
+   "light": "day"
+  },
+  {
+   "id": 12,
+   "a": 1098,
+   "b": 1235,
+   "start": 36.6,
+   "end": 41.167,
+   "place": "court",
+   "light": "day"
+  },
+  {
+   "id": 13,
+   "a": 1235,
+   "b": 1389,
+   "start": 41.167,
+   "end": 46.3,
+   "place": "court",
+   "light": "day"
+  },
+  {
+   "id": 14,
+   "a": 1389,
+   "b": 1436,
+   "start": 46.3,
+   "end": 47.867,
+   "place": "office",
+   "light": "day"
+  },
+  {
+   "id": 15,
+   "a": 1436,
+   "b": 1546,
+   "start": 47.867,
+   "end": 51.533,
+   "place": "adstage",
+   "light": "day"
+  },
+  {
+   "id": 16,
+   "a": 1546,
+   "b": 1586,
+   "start": 51.533,
+   "end": 52.867,
+   "place": "dorm",
+   "light": "golden"
+  },
+  {
+   "id": 17,
+   "a": 1586,
+   "b": 1672,
+   "start": 52.867,
+   "end": 55.733,
+   "place": "adstage",
+   "light": "golden"
+  }
+ ]
+}
